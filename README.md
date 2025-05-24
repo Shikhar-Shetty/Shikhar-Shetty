@@ -1,53 +1,101 @@
-<h1 align="center">Hi 👋, I'm <b>Shikhar Shetty</b></h1>
-<h3 align="center" style="font-weight:400; color:#555;">
-  Full Stack Developer | Problem Solver | Tech Enthusiast
-</h3>
-
----
+# 👋 Hello, I'm **Shikhar Shetty**
 
 <div align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=Shikhar-Shetty&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" 
-    alt="Shikhar Shetty's GitHub Stats" 
-  />
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-Shetty&layout=compact&hide_border=true&theme=radical" 
-    alt="Top Languages Used" 
-  />
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shikhar-Shetty&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
 </div>
 
 ---
 
-### 🛠 Skills & Technologies
+## 🚀 **About Me**
 
-| Languages                               | Frameworks & Libraries                             | Databases                   | Tools & Platforms                                      |
-| ------------------------------------- | ------------------------------------------------ | --------------------------- | ----------------------------------------------------- |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<div align="center">
 
----
+*Passionate developer crafting digital experiences with code*
 
-### 🤝 Let's Connect
+**🔭 Building:** Scalable full-stack applications  
+**🌱 Learning:** DevOps & Cloud Architecture  
+**💡 Exploring:** AI-powered web solutions  
+**🎯 Mission:** Creating impactful open-source contributions  
 
-<p align="center">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shikhar-shetty" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/shikhar_shetty" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shikhar-Shetty" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/Shikhar-Shetty/Shikhar-Shetty" alt="Visitor Count" />
-</p>
+## 📊 **GitHub Analytics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shikhar-Shetty&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-Shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikhar-Shetty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shikhar-Shetty&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
+---
+
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+### **Core Technologies**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shikhar-Shetty&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 **Development Activity**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shikhar-Shetty&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shikhar-Shetty&theme=tokyonight" alt="Profile Details" />
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-shetty)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shikhar_shetty)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shikhar-Shetty)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ Happy Coding! ✨**
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
