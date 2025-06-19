@@ -89,15 +89,6 @@
 
 
 </div>
-
----
-
-<div align="center">
-  
-### 🌟 **"Happy Coding"** 🌟
-
-</div>
-
 ---
 
 <div align="center">
