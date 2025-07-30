@@ -1,100 +1,103 @@
-## 👋 Hello, I'm **Shikhar Shetty**
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shikhar-Shetty&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
-</div>
+<h2 align="center">𝚂𝚑𝚒𝚔𝚑𝚊𝚛 𝚂𝚑𝚎𝚝𝚝𝚢 🍃</h2>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80)
-
-</div>
+<p align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟 | 𝚃𝚎𝚌𝚑 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</p>
 
 ---
 
+### About Me
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shikhar-Shetty&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-Shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikhar-Shetty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shikhar-Shetty&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<pre>
+I'm a passionate full stack developer focused on modern web technologies.
+I enjoy building scalable systems and solving complex problems with clean, efficient code.
+</pre>
 
 ---
 
-## 🛠️ **Tech Arsenal**
-
 <div align="center">
 
-### **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **Cloud Databases & Hosting**
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0F172A?style=for-the-badge&logo=neon&logoColor=00F9BB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shikhar-Shetty&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shettyshikhar99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-shetty)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shikhar-Shetty)
-
-
-</div>
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## Tech Stack
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/Shikhar-Shetty/Shikhar-Shetty" alt="Visitor Count" />
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square"/>
+
+<!-- Frontend -->
+<br>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square"/>
+
+<!-- Backend -->
+<br>
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square"/>
+
+<!-- Database -->
+<br>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat-square"/>
+
+<!-- Platforms -->
+<br>
+<img src="https://img.shields.io/badge/-MongoDB%20Atlas-4DB33D?logo=mongodb&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Neon-2C2255?logo=data&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square"/>
+
+<!-- Tools -->
+<br>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
+
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## Github Status
+
+<img width="400" src="https://streak-stats.demolab.com?user=Shikhar-Shetty&theme=dark&hide_border=true"/>
+<br>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Shikhar-Shetty&show_icons=true&theme=dark&hide_border=true"/>
+<br>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-Shetty&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
+
+<p align="center">
+
+<a href="mailto:shettyshikhar99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shikhar-shetty">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Shikhar-Shetty">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+<p align="center"><pre> 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚗𝚎𝚠 ❄️ </pre></p>
