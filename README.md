@@ -1,13 +1,13 @@
 <h2 align="center">𝚂𝚑𝚒𝚔𝚑𝚊𝚛 𝚂𝚑𝚎𝚝𝚝𝚢 🍃</h2>
 
-<p align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟 | 𝚃𝚎𝚌𝚑 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</p>
+<p align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟 | Devops and Cloud 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</p>
 
 ---
 
 ### About Me
 
 <pre>
-I'm a passionate full stack developer focused on modern web technologies.
+I'm a Full Stack developer focused on modern web technologies.
 I enjoy building scalable systems and solving complex problems with clean, efficient code.
 </pre>
 
