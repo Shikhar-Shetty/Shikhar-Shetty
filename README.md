@@ -78,6 +78,10 @@ I enjoy building scalable systems and solving complex problems with clean, effic
 
 ---
 
+[![An image of @shikharshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shikharshetty)](https://holopin.io/@shikharshetty)
+
+---
+
 <div align="center">
 
 ### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
